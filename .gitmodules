@@ -1,0 +1,4 @@
+[submodule "znry27/open_in_new_tab"]
+	path = znry27/open_in_new_tab
+	url = git@github.com:znry27/open_in_new_tab.git
+	branch = master
