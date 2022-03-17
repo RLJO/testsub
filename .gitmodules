@@ -12,3 +12,8 @@
 	path = znry27/button_no_save
 	url = git@github.com:znry27/button_no_save.git
 	branch = main
+
+[submodule "znry27/show_chatter_on_modal"]
+	path = znry27/show_chatter_on_modal
+	url = git@github.com:znry27/show_chatter_on_modal.git
+	branch = 14.0
