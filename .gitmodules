@@ -17,3 +17,8 @@
 	path = znry27/show_chatter_on_modal
 	url = git@github.com:znry27/show_chatter_on_modal.git
 	branch = 14.0
+
+[submodule "znry27/ngasturi-blog-english"]
+	path = znry27/ngasturi-blog-english
+	url = git@github.com:znry27/ngasturi-blog-english.git
+	branch = master
