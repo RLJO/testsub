@@ -7,3 +7,8 @@
 	path = znry27/domain_to_sql
 	url = git@github.com:znry27/domain_to_sql.git
 	branch = master
+
+[submodule "znry27/button_no_save"]
+	path = znry27/button_no_save
+	url = git@github.com:znry27/button_no_save.git
+	branch = main
