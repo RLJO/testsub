@@ -7,3 +7,8 @@
 	path = RLJO/pepindepomme2022
 	url = git@github.com:RLJO/pepindepomme2022.git
 	branch = Production
+
+[submodule "VisionSolutions/ebmx15"]
+	path = VisionSolutions/ebmx15
+	url = git@github.com:VisionSolutions/ebmx15.git
+	branch = main
